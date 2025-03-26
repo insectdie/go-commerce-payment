@@ -1,4 +1,4 @@
-# Gateway Services API
+# Payment Services API
 
 API ini adalah aplikasi manajemen pengguna menggunakan Golang dan PostgreSQL.
 
