@@ -1,0 +1,16 @@
+APP_PORT: 8000
+BASE_URL_PATH: "/payment-service"
+DB_SSL_MODE: "disable"
+DB_USER: postgres
+DB_HOST: localhost
+DB_PASSWORD: 1234
+DB_NAME: db_users
+DB_DEBUG: true
+DB_PORT: 5432
+
+REDIS_HOST: localhost
+REDIS_PORT: 6379
+REDIS_PASSWORD:
+REDIS_DB: 0
+
+MIDTRANS_CHARGE_URL: "https://api.sandbox.midtrans.com/v2/charge"
